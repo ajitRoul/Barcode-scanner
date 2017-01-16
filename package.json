@@ -1,0 +1,25 @@
+{
+  "name": "Barcode",
+  "version": "0.0.1",
+  "description": "barcode scanner using mobile vision and com.edwardvanraak:MaterialBarcodeScanner",
+  "cordova": {
+    "id": "cordova-plugin-barcode",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajitRoul/Barcode-scanner.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "ajit.roul@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajitRoul/Barcode-scanner/issues"
+  },
+  "homepage": "https://github.com/ajitRoul/Barcode-scanner#readme"
+}
